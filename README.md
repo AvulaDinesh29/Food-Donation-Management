@@ -2,6 +2,11 @@
 
 A comprehensive MERN stack application that connects food donors (restaurants, hotels, event organizers) with receivers (NGOs, charities, organizations) to reduce food waste in the hospitality industry.
 
+🌐 Live Demo
+You can view the live app here: Deployed URL
+
+⚠️ Note: The application is hosted externally and cannot be run or accessed directly from this GitHub repository.
+
 ## 🌟 Features
 
 ### For Donors
